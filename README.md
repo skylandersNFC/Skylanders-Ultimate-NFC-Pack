@@ -30,11 +30,10 @@ _Contains android apps and games, image assets, website backups, old nfc dump pa
 
 **Google Drive:** [https://drive.google.com/drive/folders/1qYL4C1ujhFYP369UgOAyPdbdizlg_lBb](https://drive.google.com/drive/folders/1qYL4C1ujhFYP369UgOAyPdbdizlg_lBb)
 
-> [!NOTE]
 > _**Google Drive** link for **Skylanders Extras** might be **missing** some of the **larger** archives, sinces it has **less space** and I was forced to **cut** some things out._
 > 
 > _Currently **NOT** included:_ **"Android\Games\Skylanders - Trap Team [Android APK].zip" (5.25 GB)**
->
+> 
 > _For **those**, please use the **MEGA** link provided above._
 
 ---------------------------------------------------
