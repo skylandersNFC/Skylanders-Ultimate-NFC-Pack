@@ -1,0 +1,5 @@
+[Definition]
+titleIds = 00050000101F4D00,00050000101FB100
+path = "Skylanders Imaginators/Game Mods/Remove Figure Digital Signature"
+description = Removes signature check for figures. This allows you to play with characters such as Heartbreaker Buckshot.
+version = 6
