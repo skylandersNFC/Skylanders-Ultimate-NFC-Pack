@@ -8,7 +8,7 @@
 
 _Contains NFC dumps._
 
-**Download Links:** | **[MEGA](https://mega.nz/folder/QHtwkISR#EP2Q3SKJmDXp6LcMuDo6FA)** | **[Google Drive](https://drive.google.com/drive/folders/1b10CxMGC995degLGPDquXy9we1ArdK4D)** | **[One Drive](https://1drv.ms/f/s!Aim4Cop7AXQxcQBiBJzZ9TELuGQ?e=GvyNrw)** | **[GitHub](https://github.com/skylandersNFC/Skylanders-Ultimate-NFC-Pack/tree/main/Dumps)**
+**Download Links:** | **[MEGA](https://mega.nz/folder/QHtwkISR#EP2Q3SKJmDXp6LcMuDo6FA)** | **[Google Drive](https://drive.google.com/drive/folders/1b10CxMGC995degLGPDquXy9we1ArdK4D)** | **[One Drive](https://1drv.ms/f/s!Aim4Cop7AXQxcQBiBJzZ9TELuGQ?e=GvyNrw)** | **[GitHub](https://github.com/skylandersNFC/Skylanders-Ultimate-NFC-Pack/tree/main/Dumps)** |
 
 -----------------------------------------------------------
 
