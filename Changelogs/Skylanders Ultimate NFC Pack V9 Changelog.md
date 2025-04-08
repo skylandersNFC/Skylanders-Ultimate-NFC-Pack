@@ -25,7 +25,7 @@ TO
 	Sky-Iron Shield, 205, 0
 
 
-## Giants
+# Giants
 
 - The following Variant IDs from several dumps were modified to ensure proper registration within Swap Force.
 
