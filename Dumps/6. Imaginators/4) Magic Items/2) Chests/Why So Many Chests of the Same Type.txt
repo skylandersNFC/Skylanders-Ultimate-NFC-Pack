@@ -1,0 +1,3 @@
+Each chest provides loot and is recorded in your game save file with a unique identifier (UID).
+Reusing the same chest dump (e.g., Bronze Mystery Chest 1) won’t grant additional loot.
+However, using a different dump of the same type (e.g., Bronze Mystery Chest 2) will grant loot again and log its UID in your save file.
