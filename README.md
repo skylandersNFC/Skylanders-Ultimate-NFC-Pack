@@ -1,6 +1,6 @@
 # Skylanders Ultimate NFC Pack and Extras
 
-<img src="https://raw.githubusercontent.com/skylandersNFC/Skylanders-Ultimate-NFC-Pack/main/Skylanders-Ultimate-NFC-Pack.jpg" width="500" height="577">
+<img src="https://raw.githubusercontent.com/skylandersNFC/Skylanders-Ultimate-NFC-Pack/main/Skylanders-Ultimate-NFC-Pack.jpg">
 
 ---------------------------------------------------
 
