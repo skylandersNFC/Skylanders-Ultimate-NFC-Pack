@@ -1,0 +1,6 @@
+Heartbreaker Buckshot is an unreleased Valentine's Day counterpart of Buckshot in Skylanders: Imaginators. 
+
+The "Heartbreaker Buckshot (Max Level Bottom/Top Path)" dumps are intended for use with Cemu alongside the "Removing Digital Signatures" mod.
+On consoles using the "Error Bypass" method, you will always receive a LVL 1 Heartbreaker Buckshot.
+
+Source: https://skylanders.fandom.com/wiki/Heartbreaker_Buckshot

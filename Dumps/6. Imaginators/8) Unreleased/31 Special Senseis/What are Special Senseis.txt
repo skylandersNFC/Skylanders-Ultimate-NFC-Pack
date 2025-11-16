@@ -1,0 +1,5 @@
+Special Senseis are Imaginator dumps manually generated without the necessary signature blocks.
+As a result, they don’t function out of the box and require workarounds such as the Error Bypass Dump for consoles or the Digital Signatures Mod for Cemu.
+These Special Senseis are primarily used to boost your Imaginator creations to the maximum level of 80.
+
+Special thanks to Echo (@echoseeker715) for creating all these custom Sensei dumps.
