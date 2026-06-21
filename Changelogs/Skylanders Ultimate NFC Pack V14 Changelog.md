@@ -2,7 +2,7 @@
 
 # Imaginators
 
-- 4) Magic Items\2) Chests
+- Inside "4) Magic Items\2) Chests":
 
 	Added "Blue Chest 3 (Cursed Tiki Temple).dump" to "Blue Chest 5 (Cursed Tiki Temple).dump" added thx to @beardlydude
 	
