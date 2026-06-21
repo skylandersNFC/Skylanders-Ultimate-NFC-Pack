@@ -1,10 +1,10 @@
 # Skylanders Ultimate NFC Pack and Extras
 
-<img src="https://raw.githubusercontent.com/skylandersNFC/Skylanders-Ultimate-NFC-Pack/main/Skylanders-Ultimate-NFC-Pack.jpg">
+<img src="Skylanders-Ultimate-NFC-Pack.webp" width="500" height="577">
 
 ---------------------------------------------------
 
-## Skylanders Ultimate NFC Pack - V13
+## Skylanders Ultimate NFC Pack - V14
 
 _Contains Skylanders NFC dumps._
 
