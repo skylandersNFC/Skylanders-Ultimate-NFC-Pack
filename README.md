@@ -1,6 +1,6 @@
 # Skylanders Ultimate NFC Pack and Extras
 
- 
+ ![Ultimate NFC Pack Image](Skylanders-Ultimate-NFC-Pack.webp "NFC Pack")
 
 ---
 
