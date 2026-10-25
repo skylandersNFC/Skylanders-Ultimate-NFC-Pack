@@ -1,6 +1,14 @@
 Heartbreaker Buckshot is an unreleased Valentine's Day counterpart of Buckshot in Skylanders: Imaginators. 
 
+There is now an officially released Heartbreaker Buckshot dump that can be found in the directory
+"Skylanders-Ultimate-NFC-Pack/Dumps/6. Imaginators/5) In-Game Variant Senseis/1) In-Game Variants/Heartbreaker Buckshot (Unreleased).dump", 
+or in this directory, as 
+"Heartbreaker Buckshot (Unreleased).dump"
+
+The below information is for legacy purposes only. For example, if you would like to play as two Heartbreaker Buckshots at the same time, or if you would like to reach Imaginator Level 80, either the "Error Bypass" method or the "Removing Digital Signatures" method will work.
+If you need assistance, please create an issue on GitHub.
+
 The "Heartbreaker Buckshot (Max Level Bottom/Top Path)" dumps are intended for use with Cemu alongside the "Removing Digital Signatures" mod.
 On consoles using the "Error Bypass" method, you will always receive a LVL 1 Heartbreaker Buckshot.
 
-Source: https://skylanders.fandom.com/wiki/Heartbreaker_Buckshot
+Source: https://skylanders.fandom.com/wiki/
